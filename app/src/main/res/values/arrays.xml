@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_topic_labels">
+        <item>@string/topic_politics_label</item>
+        <item>@string/topic_sports_label</item>
+    </string-array>
+
+    <string-array name="settings_topic_values">
+        <item>@string/topic_politics_value </item>
+        <item>@string/topic_sports_value</item>
+    </string-array>
+</resources>
